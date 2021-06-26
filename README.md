@@ -4,6 +4,7 @@
 1. Download the credentials from the Google API Console.  
 2. Rename them to credentials.json  
 3. Add them as an editor to your Google spreadsheet.  
-4. npm init  
-5. npm install google-spreadsheet  
-6. node index.js
+4. Run the commands in the terminal:  
+  npm init  
+  npm install google-spreadsheet  
+  node index.js
