@@ -1,4 +1,4 @@
-# Desafio Tunts
+# Tunts Challenge
 
 - To run the code, please follow the steps:  
 1. Download the credentials from the Google API Console.  
